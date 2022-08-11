@@ -1,0 +1,20 @@
+/* external css sheets */
+body {
+    background-color: #e5fad8;
+}
+
+hr {
+    border-style: none;
+    border-bottom-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+
+h1 {
+    color: rgb(255, 197, 90)
+}
+
+h3 {
+    color: rgb(244, 183, 71)
+}
