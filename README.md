@@ -1,5 +1,6 @@
 # AfikPeretz-CV
-In this project you can see my CV written in html, if you open it in a browser it will look like this:
+In this project you can see my CV written in html, if you open it in a browser Or just click on this link: https://afikperetz.github.io/AfikPeretz-CV/
+it will look like this:
 
 ![image](https://user-images.githubusercontent.com/73401652/184354452-c4fb6564-5a53-41e6-95f0-dac29beed0ab.png)
 
