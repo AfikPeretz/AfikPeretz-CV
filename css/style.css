@@ -1,4 +1,8 @@
-/* external css sheets */
+/* External css sheets */
+
+
+
+/* Tag selectors */
 body {
     background-color: #e5fad8;
 }
@@ -12,9 +16,56 @@ hr {
 }
 
 h1 {
-    color: rgb(255, 197, 90)
+    color: rgb(255, 182, 46)
 }
 
 h3 {
-    color: rgb(244, 183, 71)
+    color: rgb(255, 201, 101)
 }
+
+a {
+    color: rgb(6, 168, 189);
+    transition: color .5s;
+}
+
+a:hover {
+    color: gold;
+}
+
+
+/* Class selectors */
+
+.submit {
+    color: rgb(255, 182, 46)
+}
+
+.circular {
+    border-radius: 100%;
+}
+
+
+/* Id selectors */
+#Contact-me {
+    color: rgb(253, 85, 34)
+}
+
+
+
+
+
+
+
+
+
+/* 
+Notes:
+
+1. Although "Id" and "Class" seem to do the same thing, there is a clear difference between them:
+The same Id can only be used for one element on the same page, while to a Class you can add as many elements as you want,
+and they will simply all behave together under the attributes we defined for them in that Class
+
+2. HTML elements can contain only one Id, but the same element can contain several different classes
+
+
+
+*/
