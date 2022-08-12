@@ -8,4 +8,4 @@ By clicking on "Contact Details" the following page will open:
 
 ![image](https://user-images.githubusercontent.com/73401652/184354515-88651b41-288d-443c-b2ec-426b1f00d498.png)
 
-As soon as you finish entering your contact information, by clicking on the "Submit" button, the email box that you have set as default in the browser will open for you with all the details that you have entered into it, and the address of the recipient of the email will be my email address, from here all that remains is to send the email and that's it :).
+As soon as you finish entering your contact information, by clicking on the "Submit" button, the email box that you have set as default in the browser will open for you with all the details that you have entered into it, and the address of the recipient of the email will be my email address, from here all that remains is to send the email and that's it :)
